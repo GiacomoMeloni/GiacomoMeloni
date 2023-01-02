@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Bio still in progress...
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiacomoMeloni&theme=vue-dark&border_radius=10)](https://git.io/streak-stats)
+
 <!--
 **GiacomoMeloni/GiacomoMeloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
