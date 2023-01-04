@@ -1,10 +1,12 @@
+<img src="https://github.com/GiacomoMeloni/GiacomoMeloni/blob/develop/Header%20Github.jpg" alt="banner that says Hi there, I'm Giacomo - software developer">
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiacomoMeloni&theme=vue-dark&border_radius=10)](https://git.io/streak-stats)
+-->
+<!--
+
 ### Hi there 👋
 
 Bio still in progress...
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiacomoMeloni&theme=vue-dark&border_radius=10)](https://git.io/streak-stats)
-
-<!--
 **GiacomoMeloni/GiacomoMeloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
